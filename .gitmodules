@@ -1,0 +1,6 @@
+[submodule "modules/dotfiles-shell"]
+	path = modules/dotfiles-shell
+	url = https://github.com/b-butler/dotfiles-shell.git
+[submodule "modules/dotfiles-vim"]
+	path = modules/dotfiles-vim
+	url = https://github.com/b-butler/dotfiles-vim.git
